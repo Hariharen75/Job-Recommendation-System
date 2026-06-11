@@ -51,6 +51,3 @@ pip install pandas spacy
 python job_recommendation.py
 ```
 
-## Author
-
-Hariharen G
